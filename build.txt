@@ -1,0 +1,3 @@
+displayName = Metric Unit Display
+author = Glasia
+version = 1.0

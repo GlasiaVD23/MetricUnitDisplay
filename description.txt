@@ -1,0 +1,7 @@
+This mod adds an option to toggle on 
+metric length (meters) and speed units (km/h) for the Compass, Depth Meter and Stopwatch
+and military time (20:00 instead of 8:00 PM)
+To turn on metric unit display, toggle in the configs the metric units on.
+
+Changelog - 
+1.0 - First publishing

@@ -1,0 +1,15 @@
+Configs: {
+	MetricImperialToggles: {
+		DisplayName: Metric Imperial Toggles
+
+		MetricLengthAndSpeed: {
+			Label: Metric Length And Speed
+			Tooltip: ""
+		}
+
+		MilitaryTime: {
+			Label: Military Time
+			Tooltip: ""
+		}
+	}
+}
