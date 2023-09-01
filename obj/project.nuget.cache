@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "q4tm9ciaOHSZDQy/N7YWPqNyZOTes0Cd5Hi8pOCMriuPfoDSsMf9xQ2L5pOBNSESwE80cCJPUgaFdGeS1doLmw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\MiChek\\source\\repos\\MetricUnitDisplay\\MetricUnitDisplay.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package tModLoader.CodeAssist. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "tModLoader.CodeAssist",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
